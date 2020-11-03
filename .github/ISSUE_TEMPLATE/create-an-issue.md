@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-- *Spark Version*: 
-- *Scala Version*:
-- *SBT Version*: 
+- **Spark Version**: 
+- **Scala Version**:
+- **SBT Version**: 
 
 ## Describe the issue with details
 Current: [Describe what's happening]
