@@ -9,4 +9,6 @@ For more details please refer to the blog post:<br/>[Spark Streaming with HTTP R
 1. Run the `HttpStreamApp` spark application
 2. `POST` sample JSON data to `http://localhost:9999`
 
+## Demo
+Watch: https://www.youtube.com/watch?v=Y9g4oj5GH5k <br/>
 You will see that the spark app ingest that data in micro-batches of Structured Streaming and displays it. 
